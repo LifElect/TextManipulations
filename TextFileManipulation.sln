@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileManipulation", "TextFileManipulation.csproj", "{BAB12CE5-4154-432F-BB24-B4F8AB37715B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB12CE5-4154-432F-BB24-B4F8AB37715B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB12CE5-4154-432F-BB24-B4F8AB37715B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB12CE5-4154-432F-BB24-B4F8AB37715B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB12CE5-4154-432F-BB24-B4F8AB37715B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BEC206-4599-46DD-A806-5D05EFF513CA}
+	EndGlobalSection
+EndGlobal
